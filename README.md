@@ -11,5 +11,4 @@ border-radius: 2px;
 }
 
 .checkbox-input:checked + .checkbox-text::before{
-background-image: url(../images/growing_business.jpg);
-} */
+background-image: url(../images/growing_busi
